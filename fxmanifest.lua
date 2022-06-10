@@ -1,29 +1,34 @@
-# Item_Builder-V2
-Ce script est un [remake] de la version de [h4ci]
+fx_version 'adamant'
+game 'gta5'
 
-## Item Builder (V2) - [RageUI]
+lua54 'yes'
 
-### Information
-* Refresh de la table d'item automatique.
-* Liste d'item : Recherche par lettres alphabétiques & Chiffre.
-* Ajout de la création de drogue (utilisable)
-* Possibilité de configurer l'accès au menu, accessibles seulement aux administrateurs ! --> [Config.lua]
+shared_scripts "config.lua"
 
-## > Pour pouvoir utiliser un item, vous devez redémarrer le SCRIPT !
+client_scripts {
+    "src_/RMenu.lua",
+    "src_/menu/RageUI.lua",
+    "src_/menu/Menu.lua",
+    "src_/menu/MenuController.lua",
+    "src_/components/*.lua",
+    "src_/menu/elements/*.lua",
+    "src_/menu/items/*.lua",
+    "src_/menu/panels/*.lua",
+    "src_/menu/windows/*.lua",
 
----
+    "client/*.lua",
+    "config.lua",
+}
 
-Preview du script [Click here](https://streamable.com/kre7fh)
+server_scripts {
+    '@mysql-async/lib/MySQL.lua',
+    "server/*.lua",
+    "config.lua",
+}
 
----
 
-* N'hésitez pas à mettre un petit [Star] si vous voulez d'autres rework !
+author {'Autheur du script: h4ci', 'Remake by: !Therapyst#9268'}
 
----
+discord 'https://discord.gg/sml'
 
-### Autheur (VERSION REMAKE)
-
-👤 [Therapyst](https://github.com/7MLock)
-
-* IP Lock [GRATUIT] :  https://lock.c-sml.xyz
-* Notre Discord --> [SML Développement](https://discord.gg/sml)
+github 'https://github.com/7MLock/Item_Builder-V2'
