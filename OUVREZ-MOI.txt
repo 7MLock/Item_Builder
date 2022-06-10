@@ -1,0 +1,11 @@
+Rajoutez ceci dans votre [es_extended] - côté server
+
+
+ESX.AddItem = function(itemName, itemLabel, itemWeight, itemCanRemove)
+    ESX.Items[itemName] = {
+        label = itemLabel,
+        weight = itemWeight,
+        canRemove = toboolean(itemCanRemove),
+        unique = toboolean(0)
+    }
+end
