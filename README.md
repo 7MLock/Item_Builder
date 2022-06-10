@@ -13,7 +13,7 @@ Ce script est un [remake] de la version de [h4ci]
 
 ---
 
-Preview du script [Click here](https://streamable.com/kre7fh)
+Preview du script [streamable](https://streamable.com/kre7fh)
 
 ---
 
@@ -29,4 +29,4 @@ Preview du script [Click here](https://streamable.com/kre7fh)
 
 ---
 
-# **Autheur du script [@H4ci]**
+# **Autheur du script [@H4ci](https://github.com/H4ci)**
