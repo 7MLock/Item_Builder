@@ -21,9 +21,12 @@ Preview du script [Click here](https://streamable.com/kre7fh)
 
 ---
 
-### Autheur (VERSION REMAKE)
-
+### Information [7M Therapyst]
 👤 [Therapyst](https://github.com/7MLock)
 
 * IP Lock [GRATUIT] :  https://lock.c-sml.xyz
 * Notre Discord --> [SML Développement](https://discord.gg/sml)
+
+---
+
+# **Autheur du script [@H4ci]**
