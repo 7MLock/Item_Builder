@@ -12,7 +12,7 @@
 --- @see RageUI
 ---
 
-print('[^5ITEM BUILDER^0] ^2Rework by ^0[^6!Therapyst#9268^0] | Autheur du script [^5H4ci^0]')
+print('[^5ITEM BUILDER^0] ^2Rework by ^0[^6!Therapyst#9268^0] | Auteur du script [^5H4ci^0]')
 
 function math.round(num, numDecimalPlaces)
     return tonumber(string.format("%." .. (numDecimalPlaces or 0) .. "f", num))
