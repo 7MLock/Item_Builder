@@ -29,4 +29,4 @@ Preview du script [streamable](https://streamable.com/kre7fh)
 
 ---
 
-# **Autheur du script [@H4ci](https://github.com/H4ci)**
+# **Auteur du script [@H4ci](https://github.com/H4ci)**
