@@ -2,7 +2,7 @@ ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
-print('[^5ITEM BUILDER^0] ^2Rework by ^0[^6!Therapyst#9268^0] | ^0Autheur du script ^0[^5H4ci^0])')
+print('[^5ITEM BUILDER^0] ^2Rework by ^0[^6!Therapyst#9268^0] | Autheur du script [^5H4ci^0]')
 
 local Items = {}
 
