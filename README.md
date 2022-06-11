@@ -1,7 +1,6 @@
-# Item_Builder-V2
+## Item Builder (V2) - [RageUI]
 Ce script est un [remake] de la version de [h4ci]
 
-## Item Builder (V2) - [RageUI]
 
 ### Information
 * Refresh de la table d'item automatique.
